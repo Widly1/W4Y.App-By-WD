@@ -1,0 +1,2 @@
+Using Xcode and SwiftUI, I've created a simple and interactive weather app with some buttons to allow interactions within the weather app itself. 
+Although it is not fully completed yet, I've gained a lot of knowledge about the skills it takes to not only create a fully functional app, but I've come to understand how to make API calls, turn JSON code into readable data, and I've realized how both back-end and front-end rely heavily on one another. 
