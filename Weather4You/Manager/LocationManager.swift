@@ -4,6 +4,17 @@
 //
 //  Created by Widly D. on 2/26/24.
 //
+<<<<<<< HEAD
+=======
+// use this url link for the new updated JSON in the weatherData file
+//  URL:https://api.openweathermap.org/data/3.0/onecall?lat=\(latitude)&lon=(longitude)&appid=3ff77e7b51c15385163313b00945aa63" \\
+//
+//
+// url to copy and paste into Weathermanager file
+//
+// This API gives us an enhanced version of the Weather Information that we see
+//
+>>>>>>> ac333aa (Initial Commit)
 
 import Foundation
 import CoreLocation
