@@ -1,1 +1,1 @@
-# W4Y.App-By-WD
+Using Xcode and SwiftUI, I’ve developed a simple, interactive weather app with a dark mode button for in-app interactions. Though it’s still a work in progress with more features to come, I’ve gained valuable skills in building a fully functional app. I’ve learned how to make API calls, convert JSON data into readable formats, and understand how closely back-end and front-end work together.
